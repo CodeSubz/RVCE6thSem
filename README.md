@@ -10,4 +10,3 @@ This repository contains notes and materials for the 6th semester subjects of **
 - **Professional Core Elective - III** *(includes Web Semantics)*
 - **Institutional Elective - I** *(Universal Human Values 3 - UHV 3)*
 
-> **Note:** *Interdisciplinary Project (IDP) is not included.*
